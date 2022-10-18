@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qWEuJTrBq6CODCQrp6GVSwX/Q5UxqZiH0wETAlpxZRf0vrU/gy+0Y74l2LFsq8Cc63pyZn998AYEUvwdFwD2Iw==",
+  "success": true,
+  "projectFilePath": "G:\\ярослав\\коды\\PaintLiteU\\PaintLiteU\\PaintLiteU.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kolpa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kolpa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
